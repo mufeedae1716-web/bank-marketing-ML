@@ -104,6 +104,8 @@ Yes / No
 
 A user-friendly web application was developed using Streamlit.
 
+Live Demo: https://bank-marketing-ml-nku2cyfa6daqmnrh3wapprc.streamlit.app/
+
 The application contains the following sections:
 
 -  Home
